@@ -1,0 +1,3 @@
+Simple Linear Regression - When you have problem with one dependent and one independent variable problem is of simple linear regression. eg Loan approval based on cibil only
+Multiple Linear Regression - When there is multiple columns in dataset, one dependent and more than one independent variable problem is of multiple linear regression. eg Credit card approval based on age,location,
+cibil and many more
